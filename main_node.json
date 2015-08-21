@@ -1,0 +1,27 @@
+{
+  "nodes":[
+    {"name":"Source Area","group":1},
+    {"name":"Upper Lake","group":2},
+    {"name":"Lower Lake","group":2},
+    {"name":"Slag Pile","group":2},
+    {"name":"Acid Plant","group":2},
+    {"name":"Drying Area","group":2},
+    {"name":"Speiss Dross","group":2},
+	{"name":"Ore Storage","group":2},
+	{"name":"North Plant","group":2},
+	{"name":"West Plant","group":2},
+	{"name":"Thornock Lake","group":2}
+  ],
+  "links":[
+    {"source":1,"target":0},
+    {"source":2,"target":0},
+    {"source":3,"target":0},
+    {"source":4,"target":0},
+    {"source":5,"target":0},
+    {"source":6,"target":0},
+	{"source":7,"target":0},
+	{"source":8,"target":0},
+	{"source":9,"target":0},
+	{"source":10,"target":0}
+  ]
+}
